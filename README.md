@@ -1,6 +1,9 @@
 # hotmc-monitoring
 HOTMC Monitoring server
 
+# Предпросмотр
+![чо зыришь?](https://i.imgur.com/ANM2kH0.png)
+
 # Гайд по настройке
 
 ## Вставляем айди сервера
