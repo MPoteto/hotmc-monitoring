@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import datetime
 
-from config import url, webhook, timeout
-
+from config import server_id, webhook, timeout
+url = "https://hotmc.ru/minecraft-server-"+server_id 
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'lxml')
 quotes = soup.find('div', class_='place-rating')
