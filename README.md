@@ -10,3 +10,5 @@ HOTMC Monitoring server
 ## Вставляем задержку
 ![github.com](https://i.imgur.com/9fOycw8.png)
 
+# Пон
+Крч кто сколько может скиньте на киви https://qiwi.com/n/MPOTETO
