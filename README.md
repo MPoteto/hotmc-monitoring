@@ -8,4 +8,5 @@ HOTMC Monitoring server
 - Вставляем URL вебхука
 ![discord.com/app](https://i.imgur.com/1b6WD08.png)
 - Вставляем задержку
-![discord.com/app](https://i.imgur.com/1b6WD08.png)
+![github.com](https://i.imgur.com/9fOycw8.png)
+
